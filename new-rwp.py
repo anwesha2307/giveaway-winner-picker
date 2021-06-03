@@ -37,5 +37,5 @@ button=Button(root, text="generate winner", command=onClick, bg="ivory2")
 button.grid(row=24,column=5)
 
 root.mainloop()
-
+#this code is written by anwesha singh
 
